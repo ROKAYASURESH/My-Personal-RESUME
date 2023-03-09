@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My%20Personal%20RESUME/static/css/main.811d7245.css",
+    "main.js": "/My%20Personal%20RESUME/static/js/main.ea9c099c.js",
+    "static/media/Final Resume.pdf": "/My%20Personal%20RESUME/static/media/Final Resume.b23ba4e002623303107b.pdf",
+    "index.html": "/My%20Personal%20RESUME/index.html",
+    "main.811d7245.css.map": "/My%20Personal%20RESUME/static/css/main.811d7245.css.map",
+    "main.ea9c099c.js.map": "/My%20Personal%20RESUME/static/js/main.ea9c099c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.811d7245.css",
+    "static/js/main.ea9c099c.js"
+  ]
+}
