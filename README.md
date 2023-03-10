@@ -23,7 +23,7 @@ Like my works and want to support me?
 
 ### Q: How can i get started?
 
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [https://youtu.be/FHb9JobDs2o][yt-video].
+You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [https://www.youtube.com/@SROnlineEducation][yt-video].
 
 ## Feedback
 
@@ -35,10 +35,10 @@ For support, join our [Community Group][wc-fb-group].
 
 Happy Coding! ✨🚀
 
-[wc-tw]: http://twitter.com/webcifar
-[wc-yt]: http://www.youtube.com/webcifarOfficial
-[arfan-ig]: https://www.instagram.com/shaifarfan08/
-[wc-projects]: https://github.com/ShaifArfan/wc-project-tutorials
-[wc-fb-group]: https://www.facebook.com/groups/webcifar
-[buymeacoffee]: https://www.buymeacoffee.com/shaifarfan08
-[yt-video]: https://youtu.be/FHb9JobDs2o
+[wc-tw]: http://
+[wc-yt]: http://
+[arfan-ig]: https://
+[wc-projects]: https://
+[wc-fb-group]: https://
+[buymeacoffee]: https://
+[yt-video]: https://
