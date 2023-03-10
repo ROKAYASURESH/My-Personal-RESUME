@@ -13,7 +13,7 @@ YouTube Tutorial: [https://www.youtube.com/@SROnlineEducation][yt-video]
 
 Like my works and want to support me?
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://www.youtube.com/@SROnlineEducation" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+<a href="WEBSITE NAME" target="_blank"><img src="https://www.youtube.com/@SROnlineEducation" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
 
